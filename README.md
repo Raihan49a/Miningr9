@@ -1,4 +1,3 @@
-# Miningr9
 import requests
 
 def check_wallet():
